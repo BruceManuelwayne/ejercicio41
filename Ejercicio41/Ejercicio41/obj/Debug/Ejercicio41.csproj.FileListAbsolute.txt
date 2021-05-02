@@ -1,0 +1,7 @@
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe.config
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\bin\Debug\Ejercicio41.pdb
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.exe
+C:\Users\ASUS\Desktop\sistemas de infor\cai 2\Github\ejercicio41\Ejercicio41\Ejercicio41\obj\Debug\Ejercicio41.pdb
